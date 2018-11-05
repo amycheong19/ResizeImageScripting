@@ -4,6 +4,8 @@ This script is used to resize images and maintain their dimensions.
 
 
 ## To use in Terminal
+Download Exec build at Products folder and copy the path to terminal
+
 ### Parameters:
 * PathToExec: Path of Exec build of project (Look for it under Products folder)
 * FromFolderPath: Folder's path that comprises images that need to be converted
@@ -18,7 +20,7 @@ This script is used to resize images and maintain their dimensions.
  **For example:**
  
 ```
-/Users/YourUserNameInCom/Library/Developer/Xcode/DerivedData/IconResize-eojvfmtuqolzkycvyrqbafjcqv/Build/Products/Debug/IconResize 
+/Users/YourUserNameInCom/Desktop/ResizeImageScripting/Products/ResizeImageScripting
 /Users/YourUserNameInCom/Desktop/Resized/from 
 /Users/YourUserNameInCom/Desktop/Resized/to 
 512
